@@ -1,6 +1,6 @@
 {
     "editor.inlineSuggest.enabled": true,
-    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
     "terminal.integrated.smoothScrolling": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "liveServer.settings.donotShowInfoMsg": true,
@@ -14,7 +14,7 @@
     },
     "workbench.startupEditor": "none",
     "liveServer.settings.ChromeDebuggingAttachment": false,
-    "editor.fontFamily": "'Hack Nerd Font',Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Courier New','Hack Nerd Font',Consolas,monospace",
     "window.zoomLevel": 1,
     // "liveServer.settings.port": 5500,
     // "liveServer.settings.root": "/",
