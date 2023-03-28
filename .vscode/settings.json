@@ -1,6 +1,6 @@
 {
     "editor.inlineSuggest.enabled": true,
-    "workbench.colorTheme": "GitHubDark+",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
     "terminal.integrated.smoothScrolling": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "liveServer.settings.donotShowInfoMsg": true,
@@ -16,13 +16,13 @@
     "liveServer.settings.ChromeDebuggingAttachment": false,
     "editor.fontFamily": "'Hack Nerd Font',Consolas, 'Courier New', monospace",
     "window.zoomLevel": 1,
-    "liveServer.settings.port": 5500,
-    "liveServer.settings.root": "/",
-    "liveServer.settings.CustomBrowser": "chrome",
-    "liveServer.settings.https": {
-        "enable": true,
-        "cert": "C:/Users/lraul/Desktop/ARjs/https/localhost.pem",
-        "key": "C:/Users/lraul/Desktop/ARjs/https/localhost.key",
-        "passphrase": "2018"
-    }
+    // "liveServer.settings.port": 5500,
+    // "liveServer.settings.root": "/",
+    // "liveServer.settings.CustomBrowser": "chrome",
+    // "liveServer.settings.https": {
+    //     "enable": true,
+    //     "cert": "E:/Assets/Threejs/ARjs/webARTesting/https/localhost.key",
+    //     "key": "E:/Assets/Threejs/ARjs/webARTesting/https/localhost.pem",
+    //     "passphrase": "2018"
+    // }
 }
