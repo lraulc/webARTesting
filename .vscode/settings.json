@@ -1,0 +1,28 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "GitHubDark+",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.linkedEditing": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    },
+    "workbench.startupEditor": "none",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "editor.fontFamily": "'Hack Nerd Font',Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 1,
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+        "enable": true,
+        "cert": "C:/Users/lraul/Desktop/ARjs/https/localhost.pem",
+        "key": "C:/Users/lraul/Desktop/ARjs/https/localhost.key",
+        "passphrase": "2018"
+    }
+}
